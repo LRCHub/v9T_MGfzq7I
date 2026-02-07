@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "DtMF",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-07T04:47:07.806599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/01_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/02_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/03_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/04_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/05_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/06_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/07_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Benito A. Martinez Ocasio",
+      "has_synced": true,
+      "path": "select/08_DtMF_Benito_A._Martinez_Ocasio.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/09_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/10_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DtMF (Paused)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/11_DtMF_(Paused)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/12_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/13_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/14_DtMF_Bad_Bunny.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_DtMF_Bad_Bunny.txt"
+    }
+  ]
+}
